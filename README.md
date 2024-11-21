@@ -1,1 +1,1 @@
-# Globalmartdata
+# Medallion-Architecture
